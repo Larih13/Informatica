@@ -10,7 +10,7 @@ Atividades baseadas para promover melhor utilização e desenvovimento das plata
 
 # Atividades
 
-1 - Apresetação pessoal 
+1 - Apresentação pessoal 
 
 Apresentação teve como princípal objetivo, dividir aos colegas suas características pessoais de forma criativa atravéz de slides, usando as ferramentas como o Power Point, Canva...
 
