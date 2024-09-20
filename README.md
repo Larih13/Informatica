@@ -11,7 +11,7 @@ Atividades baseadas para promover melhor utilização e desenvovimento das plata
 
 # Atividades
 
-1 - Apresentação pessoal 
+1 - Apresetação pessoal 
 
 Apresentação teve como princípal objetivo, dividir aos colegas suas características pessoais de forma criativa atravéz de slides, usando as ferramentas como o Power Point, Canva...
 
@@ -23,8 +23,9 @@ Execício 1 - Usando Formulas e Dados Abertos
 A atividade foi proposta com o principal objetivo de ensinar a usabilidade das seguintes formulas: SOMA, CONT.SE, SOMASE, SE.
 Utilizando dados abertos para responder as perguntas propostas.
 
-[ver atividade](https://github.com/user-attachments/files/17068505/Trabalho.de.informatica.1.xlsx)
+[ver atividade](https://github.com/user-attachments/files/17068368/trabalho.1.informatica.xlsx)
 
+![Capturar](https://github.com/user-attachments/assets/f10f0cfc-5bfc-41e9-829f-3b6f4952abfe)
 
 
 Execício 2 - Revisão de Formulas e Dados Abertos
@@ -34,7 +35,12 @@ Utilizando dados abertos para responder as perguntas propostas.
 
 A atividade foi feita com as seguintes formulas: SOMASE e SOMASES
 
-[ver atividade](https://github.com/user-attachments/files/17068268/Trabalho.Informatica.2.xlsx)
+[ver atividade](https://github.com/user-attachments/files/17081431/Trabalho.Informatica.2.xlsx)
+
+![foto3](https://github.com/user-attachments/assets/5803f631-95db-4f27-b9df-459362b21870)
+![foto2](https://github.com/user-attachments/assets/2a6820ee-073c-4603-9cb0-0c3adc24f997)
+![foto1](https://github.com/user-attachments/assets/ab86b58c-881a-4833-befc-caf128859435)
+
 
 # Equipe
 | Nome                                  |                                                                                                                                                       GitHub                                                                                                                                                      |
