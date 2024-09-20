@@ -22,7 +22,7 @@ Execício 1 - Usando Formulas e Dados Abertos
 A atividade foi proposta com o principal objetivo de ensinar a usabilidade das seguintes formulas: SOMA, CONT.SE, SOMASE, SE.
 Utilizando dados abertos para responder as perguntas propostas.
 
-[ver atividade][Trabalho de informatica 1.xlsx](https://github.com/user-attachments/files/17068505/Trabalho.de.informatica.1.xlsx)
+[ver atividade](https://github.com/user-attachments/files/17068505/Trabalho.de.informatica.1.xlsx)
 
 
 
