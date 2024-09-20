@@ -37,4 +37,4 @@ A atividade foi feita com as seguintes formulas: SOMASE e SOMASES
 # Equipe
 | Nome                                  |                                                                                                                                                       GitHub                                                                                                                                                      |
 | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   Gabriel Alves        |     [![GitHub Badge]](https://github.com/gabrieltn16)              |
+|   Gabriel Alves        |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]](https://github.com/gabrieltn16)              |
