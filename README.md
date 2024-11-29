@@ -90,6 +90,12 @@ Execício 1 Power Apps - Crianção de APP de Controle de Estoque
 ![material](https://github.com/user-attachments/assets/ed7233e8-a108-4167-86a3-88be2892aa12)![tela inicial](https://github.com/user-attachments/assets/b1249357-f077-43a0-bae0-0a7aecf26a2e)
 
 
+# Prova Informática - Tela Power BI
+
+Construção de um dashboard com três visualizações diferentes, correspondente aos dados coletados.
+
+![tela powerbi para prova](https://github.com/user-attachments/assets/bfda08a3-5a01-4c64-8685-b44b60b5a615)
+
 
 # Equipe
 | Nome                                  |                                                                                                                                                       GitHub                                                                                                                                                      |
